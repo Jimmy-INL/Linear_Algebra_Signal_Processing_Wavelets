@@ -1,7 +1,6 @@
-## My Notes on 'Linear Algebra, Signal Processing,
-## and Wavelets - A Unified Approach'
-----------------------------------------------------
-# Introduction
+# My Notes on 'Linear Algebra, Signal Processing, and Wavelets - A Unified Approach'
+
+## Introduction
 These notes are from example problems and excersizes 
 in the text.
 To use the files properly, the code assumes that you
@@ -11,8 +10,8 @@ version of the book.
 Although I am a MATLAB geek, I am stydying the Python
 version of the book in order to expand my coding 
 fluency and hopefully go a little slower than usual.
------------------------------------------------------
-# Sources and Resources:
+
+## Sources and Resources:
 Ryan, Ø. (2019). Linear Algebra, Signal Processing, 
 and Wavelets - A Unified Approach: Python Version. 
 Germany: Springer International Publishing.
